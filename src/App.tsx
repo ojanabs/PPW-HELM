@@ -1,8 +1,10 @@
-/**
- * @license
- * SPDX-License-Identifier: Apache-2.0
- */
-
-export default function App() {
-  return <div></div>;
+function App() {
+  return (
+    <div>
+      <h1>OJANK HELMET</h1>
+      <p>Luxury Helmet Store</p>
+    </div>
+  );
 }
+
+export default App;
