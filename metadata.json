@@ -1,0 +1,6 @@
+{
+  "name": "OJANK HELMET — Katalog & Penjualan Helm Premium",
+  "description": "Website resmi penjualan helm balap dan harian premium merek AGV, Arai, Shoei, dan HJC dengan layanan konsultasi dan pemesanan WhatsApp terpercaya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
